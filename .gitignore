@@ -1,0 +1,7 @@
+*.Rproj
+*.html
+*.pptx
+
+# folders
+Datathon2024_WritingManuscript_files
+.Rproj.user
