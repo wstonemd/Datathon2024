@@ -1,6 +1,10 @@
+# Files
 *.Rproj
 *.html
 *.pptx
+
+.Rhistory
+.DS_Store
 
 # folders
 Datathon2024_WritingManuscript_files
