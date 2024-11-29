@@ -2,7 +2,7 @@
 title: "Embolization of the Middle Meningeal Artery for Chronic Subdural Hematoma"
 author: "David Fiorella, M.D."
 bibliography: NEJMoa2409845.bib
-csl: jama.csl
+csl: the-new-england-journal-of-medicine.csl
 format: html
 editor: visual
 ---
@@ -10,3 +10,8 @@ editor: visual
 Chronic subdural hematoma is a common neurosurgical disease. The condition is most prevalent among older patients, and the incidence continues to increase.[@balserActualProjectedIncidence2015;@rauhalaChronicSubduralHematoma2020] Standard treatment can consist of either surgical evacuation or nonsurgical management.3-9 Although no evidence-based guidelines regarding the treatment of chronic subdural hematoma are widely accepted, surgical evacuation is generally favored for larger and more symptomatic collections, whereas nonsurgical management is favored for smaller collections, particularly in patients with multiple coexisting conditions or in patients receiving anticoagulant therapy.10,11 Both treatment strategies are associated with a relatively high risk of treatment failure (ranging from 5 to 50%) as indicated by the persistence, progression, or recurrence of chronic subdural hematoma, which often leads to reoperation or surgical rescue, as well as by complications such as stroke, myocardial infarction, or death, which are related to coexisting conditions and the withholding of anticoagulant therapy.2,12–21
 It has been hypothesized that chronic subdural hematoma is primarily caused by inflammation of the meninges, which stimulates neovascular ingrowth that is susceptible to bleeding, with the blood leaking into the subdural space. Such leakage may incite a positive-feedback cycle of further inflammation, neovascular ingrowth, and bleeding, in which blood products may ultimately accumulate faster than the vasculature in the central nervous system can absorb them.22,23 Embolization of the middle meningeal artery with liquid agents is an endovascular procedure that can occlude the pathologic meningeal neovasculature,24,25 shifting the balance in favor of physiologic reabsorption of the collection.24,26
 The Squid Trial for the Embolization of the Middle Meningeal Artery for the Treatment of Chronic Subdural Hematoma (STEM) investigated the effect of adjunctive middle meningeal artery embolization with Squid (Balt USA), a nonadhesive liquid embolic agent, on the risk of treatment failure among patients receiving either surgical or nonsurgical standard treatment for chronic subdural hematoma.
+
+### **Methods**
+
+#### TRIAL DESIGN AND OVERSIGHT
+STEM was a prospective, international, multicenter, open-label, interventional, randomized, controlled trial involving patients with symptomatic chronic subdural hematoma who were to receive either surgical or nonsurgical standard treatment. Complete details regarding the trial design and statistical analysis are provided in the protocol, available with the full text of this article at NEJM.org. The trial was conducted in accordance with the principles of the Declaration of Helsinki and with the International Council for Harmonisation Good Clinical Practice guidelines. The trial protocol was approved by the institutional review board or ethics committee at each site. Written informed consent was obtained from all the patients. The trial was performed under an investigational device exemption (G190038).
